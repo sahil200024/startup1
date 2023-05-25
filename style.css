@@ -1,0 +1,37 @@
+
+body{
+    background: url(https://www.noaandnani.co.uk/images/haas-bookshelf-6-shelf-bookcase-in-natural-pine-p1140-7271_image.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.red{
+  color:blue;
+}
+
+hr {
+    margin: 20px auto;
+    color: #F05F44;
+    border: 3px solid #F05F44;
+    max-width: 65px;
+    opacity: 1;  
+}
+
+
+
+
+.btn.btn-primary.btn-lg {
+  padding: 1rem 2rem;
+  color: red;
+}
+
+.btn.btn-primary.btn-lg {
+  font-weight: 700;
+}
+
+.old {
+  border-color:orange;
+  border-width:500px;
+}
